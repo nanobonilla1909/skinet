@@ -1,0 +1,9 @@
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/bin/Debug/netstandard2.0/Core.deps.json
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/bin/Debug/netstandard2.0/Core.dll
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/bin/Debug/netstandard2.0/Core.pdb
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.dll
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Core/obj/Debug/netstandard2.0/Core.pdb

@@ -1,0 +1,12 @@
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/bin/Debug/netstandard2.0/Infraestructure.deps.json
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/bin/Debug/netstandard2.0/Infraestructure.dll
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/bin/Debug/netstandard2.0/Infraestructure.pdb
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/bin/Debug/netstandard2.0/Core.dll
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/bin/Debug/netstandard2.0/Core.pdb
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.csprojAssemblyReference.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.csproj.CoreCompileInputs.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.AssemblyInfoInputs.cache
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.AssemblyInfo.cs
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.csproj.CopyComplete
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.dll
+/Users/marianobonilla/Documents/Proyectos/NetCore/skinet/Infraestructure/obj/Debug/netstandard2.0/Infraestructure.pdb
